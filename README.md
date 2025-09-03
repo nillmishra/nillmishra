@@ -1,4 +1,3 @@
-<img align="centre" alt="Coding" width="1000" src="image/Picsart_23-07-23_00-31-38-940.jpg">
 <h1 align="center">Hi 👋, I'm Nillotpal Mishra</h1>
 <h3 align="center">A passionate AI&ML Student.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -7,11 +6,31 @@
 
 <p align="left"> <a href="https://twitter.com/inillmishra" target="blank"><img src="https://img.shields.io/twitter/follow/inillmishra?logo=twitter&style=for-the-badge" alt="inillmishra" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I'm currently learning **Node.js**
+- 🎓 I'm a B.Tech student in Artificial Intelligence and Machine Learning at Asansol Engineering College, graduating in 2026. My current CGPA is 7.04.
+- 👨‍💻 I have a strong foundation in **Python**, machine learning, and software development, and my goal is to build practical tech solutions.
+- 💡 I am passionate about creating real-world impact and am looking for opportunities to contribute to meaningful projects and collaborate with dynamic teams.
+- 📧 How to reach me: **nillmishra.aiml.aec@gmail.com**
 
-- 📫 How to reach me **nillmishra09@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Skills & Core Concepts
+
+* **Languages:** C, C++, JavaScript, Python
+* **Technologies:** ReactJs, NextJs, SQL, MongoDB, NodeJs, Flask, Docker
+* **Version Control:** Git, Github
+* **Concepts:** Object Oriented Programming
+
+---
+
+### 🏆 Certifications
+
+* Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+* AI for Beginners - HP LIFE
+
+---
+
+### Connect with me:
 <p align="left">
 <a href="https://twitter.com/inillmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inillmishra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nillotpal-mishra-955098248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nillotpal-mishra-955098248/" height="30" width="40" /></a>
@@ -33,5 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nillmishra&show_icons=true&locale=en" alt="nillmishra" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nillmishra&" alt="nillmishra" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nillmishra&" alt="nillmishra" /></p>
