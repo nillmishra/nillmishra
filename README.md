@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/inillmishra" target="blank"><img src="https://img.shields.io/twitter/follow/inillmishra?logo=twitter&style=for-the-badge" alt="inillmishra" /></a> </p>
 
 - 🌱 I'm currently learning **Node.js**
-- 🎓 I'm a B.Tech student in Artificial Intelligence and Machine Learning at Asansol Engineering College, graduating in 2026. My current CGPA is 7.04.
 - 👨‍💻 I have a strong foundation in **Python**, machine learning, and software development, and my goal is to build practical tech solutions.
 - 💡 I am passionate about creating real-world impact and am looking for opportunities to contribute to meaningful projects and collaborate with dynamic teams.
 - 📧 How to reach me: **nillmishra.aiml.aec@gmail.com**
