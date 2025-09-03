@@ -1,7 +1,7 @@
 <img align="centre" alt="Coding" width="1000" src="image/Picsart_23-07-23_00-31-38-940.jpg">
 <h1 align="center">Hi 👋, I'm Nillotpal Mishra</h1>
 <h3 align="center">A passionate AI&ML Student.</h3>
-<img align="right" alt="Coding" width="400" src="image/newlogo.png">
+<img align="right" alt="Coding" width="400" src="image/logo2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nillmishra&label=Profile%20views&color=0e75b6&style=flat" alt="nillmishra" /> </p>
 
